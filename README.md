@@ -59,11 +59,3 @@ If you need help with these steps, you might check out
 
 Finally, based on which version of the project you're looking for (workshop, egghead, or
 Frontend Masters) you'll run one of the following commands in the cloned directory:
-
-- **Frontend Masters Workshop**: `npm run setup:fem`
-- **Egghead Course**: `npm run setup:egghead`
-
-If you get any failures at this point something is wrong and needs to be fixed. Remember,
-[Google](https://google.com) and [StackOverflow](https://stackoverflow.com) are your friends.
-
-You might find it helpful to see a list of the available branches. Run: `git branch` for that.
